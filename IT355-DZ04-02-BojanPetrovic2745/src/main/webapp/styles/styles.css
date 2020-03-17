@@ -1,0 +1,25 @@
+.button{
+    background-color: #ad8c1f;
+}
+body{
+    background-color: #ad8c1f;
+}
+
+.label{
+    background-color: #1281a3;
+    position: relative;
+    top: 150px;
+    left: 200px;
+    width: 600px;
+    height: 300px;
+    font-size: 40px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+input[type=checkbox]{
+    transform: scale(2);
+}
+
